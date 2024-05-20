@@ -189,7 +189,11 @@ header {
     background-size: cover;
     background-position: center;
 }
-
+.grid-item-thirteen {
+    background-image: url('Zack.jpeg');
+    background-size: cover;
+    background-position: center;
+}
 .grid-item-empty {
     background-image: url('mystery\ character.png');
     background-size: cover;
